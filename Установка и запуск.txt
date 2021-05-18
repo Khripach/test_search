@@ -1,0 +1,8 @@
+0. Установить git, зарегистрироваться на нём.
+1. Установить Pycharm.
+2. Установить Python.
+3. Установить pip (easy_install pip).
+4. Установить selenium (pip install selenium).
+5. Открыть PyCharm, открыть проект через Get from Version Control.
+6. Склонировать проект из github https://github.com/Khripach/test_search ??? такой урл?
+7. Запустить автотесты.
